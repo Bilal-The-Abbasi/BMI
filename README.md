@@ -1,4 +1,5 @@
 # OwnerOS AI — Business Operating Kit
+<!-- Last updated: May 30, 2026 -->
 
 > **The AI Operating System for Owner-Led Businesses**
 
